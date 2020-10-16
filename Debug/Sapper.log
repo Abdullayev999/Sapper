@@ -1,0 +1,11 @@
+﻿  Sapper.cpp
+C:\Users\f-abd\source\repos\Sapper\Sapper\Sapper.cpp(39,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\f-abd\source\repos\Sapper\Sapper\Sapper.cpp(78,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Sapper\Sapper\Sapper.cpp(82,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Sapper\Sapper\Sapper.cpp(92,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Sapper\Sapper\Sapper.cpp(103,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Sapper\Sapper\Sapper.cpp(105,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Sapper\Sapper\Sapper.cpp(209,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Sapper\Sapper\Sapper.cpp(211,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Sapper\Sapper\Sapper.cpp(228,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Sapper.vcxproj -> C:\Users\f-abd\source\repos\Sapper\Debug\Sapper.exe
